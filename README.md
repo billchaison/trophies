@@ -1,5 +1,5 @@
 # trophies
-Bragging rights, vulnerabilities I've discovered and unpublished exploits
+Bragging rights, vulnerabilities I've discovered and unreleased exploits
 
 ![alt text](pan.png)<br />
 https://nvd.nist.gov/vuln/detail/CVE-2018-9334<br />
