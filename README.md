@@ -5,6 +5,8 @@ Bragging rights, vulnerabilities I've discovered and unreleased exploits
 **Password Hash Disclosure**<br />
 https://nvd.nist.gov/vuln/detail/CVE-2018-9334<br />
 https://www.securityfocus.com/bid/104677/info
+**GlobalProtect User Stored Password Decryption**<br />
+https://github.com/billchaison/ClobberProtect
 
 ![alt text](thy.png)<br />
 **Release 10.4.000000, Security Fix, PuTTY Log Password Disclosure**<br />
