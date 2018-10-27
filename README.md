@@ -1,5 +1,5 @@
 # trophies
-Bragging rights, vulnerabilities I've discovered and unreleased exploits
+Bragging rights, vulnerabilities I've discovered and authored exploits
 
 ![alt text](pan.png)<br />
 **Password Hash Disclosure**<br />
