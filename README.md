@@ -20,6 +20,6 @@ https://github.com/billchaison/zer0cks
 **Allworx Admin Password Reset**<br />
 https://github.com/billchaison/Alldorx
 
-![alt text](wsc.png)<br />
+![alt text](wscp.png)<br />
 **WinSCP Stored Password Decryption**<br />
 https://github.com/billchaison/WinSCoPe
