@@ -5,6 +5,7 @@ Bragging rights, vulnerabilities I've discovered and original exploits
 **Password Hash Disclosure**<br />
 https://nvd.nist.gov/vuln/detail/CVE-2018-9334<br />
 https://www.securityfocus.com/bid/104677/info<br />
+
 **GlobalProtect User Stored Password Decryption**<br />
 https://github.com/billchaison/ClobberProtect
 
