@@ -32,3 +32,7 @@ https://github.com/billchaison/reelpresence
 ![alt text](lr.jpg)<br />
 **LogRhythm INI File Password Decryption**<br />
 https://github.com/billchaison/GotNoRhythm
+
+![alt text](vyos.png)<br />
+**VyOS Root Privilege Escalation**<br />
+https://github.com/billchaison/VyOS-Get-Root
