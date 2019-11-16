@@ -36,3 +36,7 @@ https://github.com/billchaison/GotNoRhythm
 ![alt text](vyos.png)<br />
 **VyOS Root Privilege Escalation**<br />
 https://github.com/billchaison/VyOS-Get-Root
+
+![alt text](er.png)<br />
+**Ericsson Password Decoder**<br />
+https://github.com/billchaison/ED
