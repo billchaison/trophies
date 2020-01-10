@@ -40,3 +40,7 @@ https://github.com/billchaison/VyOS-Get-Root
 ![alt text](er.png)<br />
 **Ericsson Password Decoder**<br />
 https://github.com/billchaison/ED
+
+![alt text](ks.png)<br />
+**Key Systems admin privilege escalation**<br />
+https://github.com/billchaison/KeyStoned
