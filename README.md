@@ -1,4 +1,5 @@
 # trophies
+![alt text](mu.png)<br />
 Collection of vulnerabilities I've discovered and original exploits
 
 ![alt text](pan.png)<br />
