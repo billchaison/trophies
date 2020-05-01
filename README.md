@@ -45,3 +45,6 @@ https://github.com/billchaison/ED
 ![alt text](ks.png)<br />
 **Key Systems admin privilege escalation**<br />
 https://github.com/billchaison/KeyStoned
+
+![alt text](incog.png)<br />
+**Incognito BCC username disclosure and privilege escalation**<br />
