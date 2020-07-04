@@ -48,6 +48,8 @@ https://github.com/billchaison/KeyStoned
 
 ![alt text](incog.png)<br />
 **Incognito BCC username disclosure and privilege escalation**<br />
+https://github.com/billchaison/Incog-Neato
 
 ![alt text](tlogo.png)<br />
 **Trimble NetRS diagnostic easter egg, config file access, root privilege escalation (LFI, command injection), and back door binary**<br />
+https://github.com/billchaison/Tremble
