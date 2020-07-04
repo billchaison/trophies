@@ -50,4 +50,4 @@ https://github.com/billchaison/KeyStoned
 **Incognito BCC username disclosure and privilege escalation**<br />
 
 ![alt text](tlogo.png)<br />
-**Trimble NetRS diagnostic easter egg, config file access, root privilege escalation (LFI, command injection), and back door binary
+**Trimble NetRS diagnostic easter egg, config file access, root privilege escalation (LFI, command injection), and back door binary**<br />
