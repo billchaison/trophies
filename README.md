@@ -53,3 +53,7 @@ https://github.com/billchaison/Incog-Neato
 ![alt text](tlogo.png)<br />
 **Trimble NetRS diagnostic easter egg, config file access, root privilege escalation (LFI, command injection), and back door binary**<br />
 https://github.com/billchaison/Tremble
+
+![alt text](digi00.png)<br />
+**Digi Wireless Router Password Decoder**<br />
+https://github.com/billchaison/Dig-it
