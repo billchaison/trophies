@@ -57,3 +57,7 @@ https://github.com/billchaison/Tremble
 ![alt text](digi00.png)<br />
 **Digi Wireless Router Password Decoder**<br />
 https://github.com/billchaison/Dig-it
+
+![alt text](mot.png)<br />
+**Motorola NC1500 Backdoor Password**<br />
+https://github.com/billchaison/nc1500
