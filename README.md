@@ -61,3 +61,7 @@ https://github.com/billchaison/Dig-it
 ![alt text](mot.png)<br />
 **Motorola NC1500 Backdoor Password**<br />
 https://github.com/billchaison/nc1500
+
+![alt text](n00.png)<br />
+**Nokia hash2 Password Decrypter**<br />
+https://github.com/billchaison/Nuke-ia
