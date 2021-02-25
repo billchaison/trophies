@@ -65,3 +65,6 @@ https://github.com/billchaison/nc1500
 ![alt text](n00.png)<br />
 **Nokia hash2 Password Decrypter**<br />
 https://github.com/billchaison/Nuke-ia
+
+![alt text](fs00.png)<br />
+**ForeScout SecureConnector Protected Uninstaller Bypass**<br />
