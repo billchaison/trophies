@@ -68,3 +68,6 @@ https://github.com/billchaison/Nuke-ia
 
 ![alt text](fs00.png)<br />
 **ForeScout SecureConnector Protected Uninstaller Bypass**<br />
+
+![alt text](vmwh.png)<br />
+**VMWare Horizon Diag Tool Abuse**<br />
