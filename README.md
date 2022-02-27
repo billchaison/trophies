@@ -71,3 +71,6 @@ https://github.com/billchaison/Nuke-ia
 
 ![alt text](vmwh.png)<br />
 **VMWare Horizon LSASS Dumping**<br />
+
+![alt text](etbwmgr.png)<br />
+**Emerging Technologies Bandwidth Manager, unauthenticated credential disclosure, XSS**<br />
