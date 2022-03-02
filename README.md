@@ -10,6 +10,8 @@ https://www.securityfocus.com/bid/104677/info<br />
 **GlobalProtect User Stored Password Decryption**<br />
 https://github.com/billchaison/ClobberProtect
 
+**GlobalProtect client VPN tunnel crash**<br />
+
 ![alt text](thy.png)<br />
 **Release 10.4.000000, Security Fix, PuTTY Log Password Disclosure**<br />
 https://thycotic.force.com/support/s/article/SS-Release-Notes
