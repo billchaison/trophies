@@ -76,3 +76,6 @@ https://github.com/billchaison/Nuke-ia
 
 ![alt text](etbwmgr.png)<br />
 **Emerging Technologies Bandwidth Manager, unauthenticated credential disclosure, XSS**<br />
+
+![alt text](vg01.png)<br />
+**Vanguard Flash Technology, backdoor Web Admin password**<br />
