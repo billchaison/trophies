@@ -79,3 +79,4 @@ https://github.com/billchaison/Nuke-ia
 
 ![alt text](vg01.png)<br />
 **Vanguard Flash Technology, backdoor Web Admin password**<br />
+CVE-2025-43719
