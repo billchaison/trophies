@@ -1,6 +1,6 @@
 # trophies
 ![alt text](mu.png)<br />
-Collection of vulnerabilities I've discovered and original exploits.  Many of these are a result of private research and Red Team engagements and are not released to the public.
+Collection of vulnerabilities I've discovered and original exploits.  Many of these are the result of private research and Red Team engagements and are not released to the public.
 
 ![alt text](pan.png)<br />
 **Password Hash Disclosure**<br />
