@@ -1,6 +1,6 @@
 # trophies
 ![alt text](mu.png)<br />
-Collection of vulnerabilities I've discovered and original exploits
+Collection of vulnerabilities I've discovered and original exploits.  Many of these are a result of private research and Red Team engagements and are not released to the public.
 
 ![alt text](pan.png)<br />
 **Password Hash Disclosure**<br />
@@ -45,11 +45,11 @@ https://github.com/billchaison/VyOS-Get-Root
 https://github.com/billchaison/ED
 
 ![alt text](ks.png)<br />
-**Key Systems admin privilege escalation**<br />
+**Key Systems Admin Privilege Escalation**<br />
 https://github.com/billchaison/KeyStoned
 
 ![alt text](incog.png)<br />
-**Incognito BCC username disclosure and privilege escalation**<br />
+**Incognito BCC Username Disclosure and Privilege Escalation**<br />
 https://github.com/billchaison/Incog-Neato
 
 ![alt text](tlogo.png)<br />
