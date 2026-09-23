@@ -83,3 +83,5 @@ CVE-2025-43719
 
 ![alt text](ubn.png)<br />
 **Ubiquiti EdgeSwitch User Password Decrypter**<br />
+https://github.com/billchaison/EdgeSnitch
+
