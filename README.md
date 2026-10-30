@@ -85,3 +85,7 @@ CVE-2025-43719
 **Ubiquiti EdgeSwitch User Password Decrypter**<br />
 https://github.com/billchaison/EdgeSnitch
 
+<br />![alt text](adtr.png)<br />
+**Adtran Password Decoder**<br />
+https://github.com/billchaison/Badtran
+
